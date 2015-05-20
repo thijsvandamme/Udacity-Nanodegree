@@ -74,3 +74,8 @@ Don’t assume an even number of players. If there is an odd number of players, 
 Support games where a draw (tied game) is possible. This will require changing the arguments to reportMatch.
 When two players have the same number of wins, rank them according to OMW (Opponent Match Wins), the total number of wins by players they have played against.
 Support more than one tournament in the database, so matches do not have to be deleted between tournaments. This will require distinguishing between “a registered player” and “a player who has entered in tournament #123”, so it will require changes to the database schema.
+
+
+##How to run this
+
+Run python tournament_test.py 
