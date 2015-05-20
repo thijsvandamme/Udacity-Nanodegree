@@ -1,0 +1,22 @@
+ id |  name   | wins 
+----+---------+------
+ 12 | Steven  |    2
+ 16 | Wim     |    2
+  5 | Thijs   |    2
+ 13 | Urbanus |    1
+  7 | Kevin   |    1
+  4 | Martin  |    1
+  1 | TVD     |    1
+  9 | Tom     |    1
+  2 | Stephan |    1
+  8 | Matt    |    1
+  3 | Emma    |    1
+ 14 | Luc     |    1
+ 17 | Bas     |    1
+  0 | BYE     |    1
+ 10 | SJ      |    1
+ 11 | Richard |    0
+ 15 | Marijn  |    0
+  6 | Patrick |    0
+(18 rows)
+
